@@ -11,7 +11,7 @@ My GitHub page is https://github.com/dskoman
 * Lab 7
 
   Lab 5, part 2 is notable to me because I remember enjoying the problem solving process me and my partners took part in.
-  We would understand the program from a purely logical standpoint, then translate that into code, using functions to isolate each function of the game. Moments like this
+  We would understand the program from a purely logical standpoint, then translate that into code, using functions to isolate each action in the game. Moments like this
   are important for us to remember as we moved on.
   
 * Lab 10
@@ -22,6 +22,5 @@ My GitHub page is https://github.com/dskoman
   
 * Lab 12
 
-  Lab 8, part 1 was fun because of the ways we were able to manipulate graphics using code. We experimented with different algorithms
-  for generating the gif, but eventually settled on the correct algorithm that generated the rainbow gradient. This lab also showed me the link the between math and programming through the use of trigonomic functions. Programming in graphics
+  Lab 8, part 1 was fun because of the ways we were able to manipulate graphics using code. This lab also showed me the relationship between math and programming through the use of trigonomic functions. Programming in graphics
   is a subject I want to revisit at some point.
