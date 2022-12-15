@@ -18,7 +18,7 @@ My GitHub page is https://github.com/dskoman
   
   Lab 10, part 2 was interesting becaues it reminded me of a programming project that I worked on in high school; I was tasked with
   processing a table of IP addresses. Similarly in this lab, we learned how to correctly access 2D vectors/tables based on user input. I can see skills
-  like this being useful when dealing with things like statistics, which processling and searching through large amounts of information.
+  like this being useful when dealing with things like statistics, where processing and searching through large amounts of information is common.
   
 * Lab 12
 
