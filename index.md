@@ -1,6 +1,6 @@
 # Hello World
 
-This is my home page! My name is Anthony Vasquez and I am a student at [Cal State Fullerton](https://www.fullerton.edu/) an my major is computer science.
+This is my home page! My name is Anthony Vasquez and I am a student at [Cal State Fullerton](https://www.fullerton.edu/) and my major is computer science.
 
 ## Computer Science Projects
 
@@ -12,7 +12,7 @@ My GitHub page is https://github.com/dskoman
 
   Lab 5, part 2 is notable to me because I remember enjoying the problem solving process me and my partners took part in.
   We would understand the program from a purely logical standpoint, then translate that into code. Moments like this
-  are important to remember as we moved on.
+  are important for us to remember as we moved on.
   
 * Lab 10
   
